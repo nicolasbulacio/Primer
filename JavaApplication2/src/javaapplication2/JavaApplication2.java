@@ -18,13 +18,17 @@ public class JavaApplication2 {
         System.out.println("Hola git, soy Sergio");
         System.out.println("--------------------------");             
         System.out.println("Tuki");
+        System.out.println("--------------------------");
         
+        System.out.println("Puto el que lee :O");
+        System.out.println("Tuki");
+        System.out.println("Bonjour");
         
+        System.out.println("--------------------------");
         System.out.println("Hola, Cual es tu nombre???");
-        String nom = sc.next();
-        
+        String nom = sc.next();       
         System.out.println("Hola "+nom);
-        
+
     }
     
 }
